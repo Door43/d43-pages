@@ -1,0 +1,5 @@
+====== Request New Language ======
+
+If you couldn't find your language listed on door43.org then fill out this form to let us know what language you would like configured. Include the language name and the language code if you know it.
+
+{{contact>subj=Setup OBS For My Language}}
