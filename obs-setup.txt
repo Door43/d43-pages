@@ -8,3 +8,6 @@ To configure Open Bible Stories for your language, please select a source langua
 [obsdestinationlang]Destination Language: [/obsdestinationlang]
 
 [obscreatenow/]
+
+
+~~NOCACHE~~
