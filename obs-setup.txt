@@ -2,6 +2,8 @@
 
 To configure Open Bible Stories for your language, please select a source language below, and then begin typing the name of your language in the destination search box, select the correct entry from the list.
 
+If you need help getting started, please contact [[mailto:help@door43.org|help@door43.org]].
+
 [obssourcelang/]
 
 
