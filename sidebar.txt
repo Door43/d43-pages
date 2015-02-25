@@ -8,7 +8,7 @@ Door43 is an open-access translation platform for [[:en:legal:license|open-licen
 
 Join us on **[[https://hall.com/invites/HiDj5JXsAfvHbMqdiNe_eA|Team43]]** to meet the team, get assistance, and find out how you can //**[[:en:get-started|get started]] **//today!
 
-//Door43 is an open project that is managed by [[https://unfoldingword.org/about/|unfoldingWord]] and many volunteers.//
+//Door43 is an open project that is managed by [[https://unfoldingword.org/|unfoldingWord]] and many volunteers.//
 
 ==== Recent Changes ====
 
