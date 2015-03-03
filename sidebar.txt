@@ -6,7 +6,7 @@
 
 Door43 is an open-access translation platform for [[:en:legal:license|open-licensed]] discipleship resources in any language. Contributors from all over the world work together on this website to create, translate, and distribute legally unrestricted discipleship resources.
 
-Join us on **[[https://hall.com/invites/HiDj5JXsAfvHbMqdiNe_eA|Team43]]** to meet the team, get assistance, and find out how you can //**[[:en:get-started|get started]] **//today!
+Join us on **[[https://hall.com/invites/HiDj5JXsAfvHbMqdiNe_eA|Team43]]** to meet the team, get **[[:en:obs:help|help]]**, and find out how you can //**[[:en:get-started|get started]] **//today!
 
 //Door43 is an open project that is managed by [[https://unfoldingword.org/|unfoldingWord]] and many volunteers.//
 
