@@ -234,7 +234,6 @@
   * [[:zh-tw:home|繁體中文 (zh-tw)]]
   * [[:zmz:home|Mbandja (zmz)]]
   * [[:zu:home|isiZulu (zu)]]
-  * Tharu (tr)
 
 ----
 
