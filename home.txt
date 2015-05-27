@@ -2,7 +2,7 @@
 
 **Choose your language:**
 
-   * [[:ab:home|аҧсуа бызшәа, аҧсшәа (ab)]]
+  * [[:ab:home|аҧсуа бызшәа, аҧсшәа (ab)]]
   * [[:abp:home|Abellen Ayta (abp)]]
   * [[:abs:home|Ambonese Malay (abs)]]
   * [[:adi:home|Adi (adi)]]
