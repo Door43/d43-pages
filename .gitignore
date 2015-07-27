@@ -1,2 +1,4 @@
-# ignore everything, every namespace should have it's own repo
-*/
+*
+!.gitignore
+!*.txt
+
