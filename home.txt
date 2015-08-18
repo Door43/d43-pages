@@ -205,7 +205,7 @@
   * [[:thr:home|Rana Tharu (thr)]]
   * [[:ti:home|ትግርኛ (ti)]]
   * [[:tk:home|Türkmen, Түркмен (tk)]]
-  * [[:tl:home|Tagalog, (tl)]]
+  * [[:tl:home|Tagalog (tl)]]
   * [[:tll:home|Tetela (tll)]]
   * [[:tn:home|Setswana (tn)]]
   * [[:to:home|faka Tonga (to)]]
