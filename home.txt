@@ -9,7 +9,7 @@
   * [[:adl:home|Galo (adl)]]
   * [[:af:home|Afrikaans (af)]]
   * [[:aii:home|Assyrian Neo-Aramaic (aii)]]
-  * [[:am:home|<span lang="am">አማርኛ</span> (am)]]
+  * [[:am:home|አማርኛ (am)]]
   * [[:an:home|aragonés (an)]]
   * [[:apd:home|Sudanese Arabic (apd)]]
   * [[:ar:home|العربية (ar)]]
