@@ -1,0 +1,9 @@
+[[javascript:showObsExportDialog();|Click here to download OBS template]]
+
+<HTML>
+<script type="text/javascript">
+jQuery().ready(function() { showObsExportDialog(); });
+</script>
+</HTML>
+
+~~NOCACHE~~
