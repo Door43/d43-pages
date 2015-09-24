@@ -1,7 +1,5 @@
 ====== Open Bible Stories Word Template ======
 
-If you would like to use Microsoft Word to translate Open Bible Stories, you can export a Word file based on your chosen source language as a template.
-
 Please be sure that you do not change the formatting of the document.
 
 [[javascript:showObsExportDialog();|Click here to download OBS template]]
