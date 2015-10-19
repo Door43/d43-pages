@@ -25,7 +25,6 @@ Looking for a language that is not here yet? [[https://door43.org/obs-setup|Setu
   * [[:bhj:home|Bahing (bhj)]]
   * [[:bho:home|Bhojpuri (bho)]]
   * [[:bi:home|Bislama (bi)]]
-  * [[:bi:home|Cambodian (ខ្មែរ) Khmer]]
   * [[:bkm:home|Kom (Cameroon) (bkm)]]
   * [[:blx:home|Mag-Indi Ayta (blx)]]
   * [[:bm:home|bamanankan (bm)]]
