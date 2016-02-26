@@ -1,1 +1,1 @@
-~~DIR:en/obs?cols=page;userid~~
+~~DIR:en?cols=page;userid~~
