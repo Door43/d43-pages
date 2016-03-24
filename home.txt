@@ -237,3 +237,6 @@ Looking for a language that is not here yet? Click on: [[:obs-setup]] for your l
   * [[:zh-tw:home|繁體中文 (zh-tw)]]
   * [[:zmz:home|Mbandja (zmz)]]
   * [[:zu:home|isiZulu (zu)]]
+
+
+[[:obs-setup]]
