@@ -9,7 +9,7 @@ Looking for a language that is not here yet? Click on: [[:obs-setup]] for your l
   * [[:adl:home|Galo (adl)]]
   * [[:af:home|Afrikaans (af)]]
   * [[:aii:home|Assyrian Neo-Aramaic (aii)]]
-  * [[:am:home|አማርኛ (am)]]
+  * [[:am:home|Tigrigna (am)]]
   * [[:an:home|aragonés (an)]]
   * [[:apd:home|Sudanese Arabic (apd)]]
   * [[:ar:home|العربية (ar)]]
