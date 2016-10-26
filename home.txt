@@ -207,7 +207,7 @@ Looking for a language that is not here yet? Click on: [[:obs-setup]] for your l
   * [[:thr:home|Rana Tharu (thr)]]
   * [[:ti:home|Tigrigna(ti)]]
   * [[:tk:home|Türkmen, Түркмен (tk)]]
-  * [[:tl:home|Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔ (tl)]]
+  * [[:tl:home|Wikang Tagalog, (tl)]]
   * [[:tll:home|Tetela (tll)]]
   * Sango (Central African Republic)
   * [[:tn:home|Setswana (tn)]]
