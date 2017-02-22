@@ -1,4 +1,12 @@
-Looking for a language that is not here yet? Click on: [[:obs-setup]] for your language (it only takes a moment).
+
+**Notice**: This DokuWiki website will soon be deprecated and only available at https://dw.door43.org.
+
+
+Translation content is now managed in the Door43 Content Service at https://git.door43.org.
+
+The https://door43.org domain will soon be redirected to a "live publishing" site that automatically displays the content uploaded to the Door43 Content Service.
+
+
 
 **Choose your language:**
 
@@ -238,5 +246,3 @@ Looking for a language that is not here yet? Click on: [[:obs-setup]] for your l
   * [[:zmz:home|Mbandja (zmz)]]
   * [[:zu:home|isiZulu (zu)]]
 
-
-[[:obs-setup]]
