@@ -11,12 +11,8 @@ The Door43 community uses Slack to communicate. When you [[:en:slack|join our sl
 
 ==== Get Started ====
 
-Before you get started, you may need to [[:obs-setup|set up Open Bible Stories]] in your language. 
+To learn how to translate, check, publish, and use our tools, check out [[http://ufw.io/ta|translationAcademy]].
 
-To learn how to translate, check, publish, and use our tools, check out [[en:ta|translationAcademy]].
+**If you want to start a translation, please use [[http://ufw.io/ts|translationStudio]] or [[https://unfoldingword.org/autographa/|Autographa]].**
 
 If you have questions, you can post them on the Helpdesk channel in Slack (see above) or email help@door43.org. 
-
-==== Recent Changes ====
-
-{{changes>ns = -playground&count=40 }}
