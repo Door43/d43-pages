@@ -4,7 +4,7 @@
 
 Translation content is now managed in the Door43 Content Service at https://git.door43.org.
 
-The https://door43.org domain will soon be redirected to a "live publishing" site that automatically displays the content uploaded to the Door43 Content Service.
+**If you want to start a translation, please use [[http://ufw.io/ts|translationStudio]] or [[https://unfoldingword.org/autographa/|Autographa]].**
 
 
 
