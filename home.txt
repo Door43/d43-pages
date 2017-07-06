@@ -1,5 +1,5 @@
 
-**Notice**: This DokuWiki website will soon be deprecated and only available at https://dw.door43.org.
+**Notice**: This DokuWiki website will soon be deprecated and only available at https://dw.door43.org.  If you want your content migrated, please let us know by emailing [[help@door43.org]].
 
 
 Translation content is now managed in the Door43 Content Service at https://git.door43.org.
