@@ -1,5 +1,5 @@
 
-**Notice**: See the new website at https://door43.org! 
+**Notice**: See the new website at https://door43.org ! 
 
 
 **If you want to start a translation, please use [[http://ufw.io/ts|translationStudio]] or [[https://unfoldingword.org/autographa/|Autographa]].**
