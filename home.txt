@@ -8,7 +8,6 @@
 
 **Choose your language:**
 
-   * [[:ab:home|аҧсуа бызшәа, аҧсшәа (ab)]]
   * [[:abp:home|Abellen Ayta (abp)]]
   * [[:abs:home|Ambonese Malay (abs)]]
   * [[:adi:home|Adi (adi)]]
@@ -22,12 +21,8 @@
   * [[:ar-x-dcv:home|العربية Dominant Culture Variant (ar-x-dcv)]]
   * [[:arz:home|Egyptian Arabic (arz)]]
   * [[:as:home|অসমীয়া (as)]]
-  * [[:av:home|авар мацӀ, магӀарул мацӀ (av)]]
   * [[:az:home|azərbaycan dili (az)]]
-  * [[:ba:home|башҡорт теле (ba)]]
   * [[:bal:home|Baluchi (bal)]]
-  * [[:be:home|беларуская мова (be)]]
-  * [[:bg:home|български език (bg)]]
   * [[:bhj:home|Bahing (bhj)]]
   * [[:bho:home|Bhojpuri (bho)]]
   * [[:bi:home|Bislama (bi)]]
